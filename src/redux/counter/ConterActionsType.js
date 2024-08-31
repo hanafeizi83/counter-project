@@ -1,0 +1,9 @@
+const INCREMENT = 'INCREMENT';
+const DESCREMENT = 'DESCREMENT';
+const REFRESH = 'REFRESH';
+
+export {
+    INCREMENT,
+    DESCREMENT,
+    REFRESH
+}
